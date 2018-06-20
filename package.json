@@ -6,15 +6,9 @@
   "bin": {
     "feweb-cli": "walker-cli.js"
   },
-  "dependencies": {
-    "chalk": "^2.4.1",
-    "download-git-repo": "^1.0.2",
-    "glob": "^7.1.2",
-    "inquirer": "^6.0.0",
-    "lodash": "^4.17.10"
-  },
   "devDependencies": {
     "chalk": "^2.4.1",
+    "commander": "^2.15.1",
     "download-git-repo": "^1.0.2",
     "glob": "^7.1.2",
     "inquirer": "^6.0.0",
