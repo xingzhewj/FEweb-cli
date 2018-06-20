@@ -1,0 +1,40 @@
+{
+  "name": "feweb-cli",
+  "version": "1.0.0",
+  "description": "前端框架脚手架",
+  "main": "index.js",
+  "bin": {
+    "feweb-cli": "walker-cli.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "download-git-repo": "^1.0.2",
+    "glob": "^7.1.2",
+    "inquirer": "^6.0.0",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "download-git-repo": "^1.0.2",
+    "glob": "^7.1.2",
+    "inquirer": "^6.0.0",
+    "lodash": "^4.17.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingzhewj/FEweb-cli.git"
+  },
+  "keywords": [
+    "fe",
+    "web"
+  ],
+  "author": "walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingzhewj/FEweb-cli/issues"
+  },
+  "homepage": "https://github.com/xingzhewj/FEweb-cli#readme"
+}
